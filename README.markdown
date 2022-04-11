@@ -31,13 +31,7 @@ To find out exactly how to use the library, please check out the section below.
 
 ## USAGE :hammer:
 
-To generate documentation, assuming you have the Rust toolchain installed, run this command inside this library's root directory:
-
-```bash
-cargo doc --target-dir .
-```
-
-To view the library's documentation, please click [here](https://blckunicorn.art/rsec).
+For a function reference and what each function does, please check out the main library [here](src/lib.rs).
 
 ## CHANGELOG :black_nib:
 
