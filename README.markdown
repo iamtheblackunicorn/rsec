@@ -1,6 +1,6 @@
 # RSEC :lock:
 
-***Test your passwords' strength at hypersonic speeds.*** :lock:
+***Test the strength of your passwords at hypersonic speeds.*** :lock:
 
 ![GitHub CI](https://github.com/iamtheblackunicorn/rsec/actions/workflows/rust.yml/badge.svg)
 
