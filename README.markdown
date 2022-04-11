@@ -12,9 +12,6 @@ Some time ago, I implemented my own algorithm to check the strength of a passwor
 
 - Blazingly fast.
 - Easy to use, no drama.
-- Provides multiple options out of the box.
-- Provides a `-h` or `--help` flag out of the box.
-- Provides a `-v` or `--version` flag out of the box.
 
 ## INSTALLATION :inbox_tray:
 
